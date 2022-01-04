@@ -1,0 +1,8 @@
+configuration-as-code:latest
+matrix-auth:latest
+blueocean:latest
+git:latest
+build-pipeline-plugin:latest
+maven-plugin:latest
+gradle:latest
+gitlab-oauth:latest
